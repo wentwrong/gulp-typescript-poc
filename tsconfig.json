@@ -1,0 +1,7 @@
+{
+    "target": "es2018",
+    "compilerOptions": {
+        "allowJs": true,
+        "outDir": "lib"
+    }
+}
